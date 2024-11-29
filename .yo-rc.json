@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.4",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },    
+    "environment": "spo",
+    "version": "1.20.0",
+    "libraryName": "peel-local-injectcss",
+    "libraryId": "9215a809-4053-4531-abbd-e4c77f1dab56",
+    "packageManager": "npm",
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}

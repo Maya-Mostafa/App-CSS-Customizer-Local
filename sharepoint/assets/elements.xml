@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="PeelLocalInjectCss"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="00016dc4-a61d-4090-bca1-45dd80815a45"
+        ClientSideComponentProperties="{&quot;cssurl&quot;:&quot;/SiteAssets/PDSBstyles.css&quot;}">
+    </CustomAction>
+</Elements>
